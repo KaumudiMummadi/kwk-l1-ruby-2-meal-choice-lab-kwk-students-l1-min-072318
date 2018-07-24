@@ -10,7 +10,7 @@ def breakfast(break="frosted flakes")
 end
 
 def lunch(lun = "grilled cheese")
-  puts"Lunch is the best time for #{food}"
+  puts"Lunch is the best time for #{lun}"
 end
 
 
